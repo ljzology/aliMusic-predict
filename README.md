@@ -10,4 +10,4 @@ use arima to predict 50 artists' play amount
 有需要数据的朋友可以给我发邮件：ljzology@163.com
 # 竞赛网址
 https://tianchi.shuju.aliyun.com/competition/introduction.htm?spm=5176.100068.5678.1.UwzYNR&raceId=231531
-# 竞赛思路
+
